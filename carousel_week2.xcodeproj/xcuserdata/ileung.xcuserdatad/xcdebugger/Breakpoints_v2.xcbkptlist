@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "carousel_week2/SignInViewController.swift"
+            timestampString = "432938664.248563"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "onSignIn(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "carousel_week2.SignInViewController.onSignIn (carousel_week2.SignInViewController)(ObjectiveC.UIButton) -&gt; ()"
+                  moduleName = "carousel_week2"
+                  urlString = "file:///Users/ileung/Documents/codepath/week2/carousel_week2/carousel_week2/SignInViewController.swift"
+                  timestampString = "432938664.252642"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "carousel_week2.SignInViewController.onSignIn (carousel_week2.SignInViewController)(ObjectiveC.UIButton) -&gt; ()"
+                  moduleName = "carousel_week2"
+                  urlString = "file:///Users/ileung/Documents/codepath/week2/carousel_week2/carousel_week2/SignInViewController.swift"
+                  timestampString = "432938664.252826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1153">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "carousel_week2.SignInViewController.onSignIn (carousel_week2.SignInViewController)(ObjectiveC.UIButton) -&gt; ()"
+                  moduleName = "carousel_week2"
+                  urlString = "file:///Users/ileung/Documents/codepath/week2/carousel_week2/carousel_week2/SignInViewController.swift"
+                  timestampString = "432938664.252965"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "2916">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
